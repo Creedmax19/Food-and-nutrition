@@ -1,0 +1,1 @@
+# Shopping app for managing shopping lists and market integration

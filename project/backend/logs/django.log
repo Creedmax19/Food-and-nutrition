@@ -1,0 +1,560 @@
+INFO 2025-07-27 01:49:41,787 autoreload 22108 19788 Watching for file changes with StatReloader
+INFO 2025-07-27 01:49:48,638 autoreload 19620 2856 Watching for file changes with StatReloader
+INFO 2025-07-27 01:51:17,356 autoreload 22492 6924 Watching for file changes with StatReloader
+INFO 2025-07-27 01:53:44,479 autoreload 18464 21036 Watching for file changes with StatReloader
+INFO 2025-07-27 01:55:32,146 autoreload 18476 19112 Watching for file changes with StatReloader
+INFO 2025-07-27 01:58:05,353 autoreload 21964 12600 Watching for file changes with StatReloader
+INFO 2025-07-27 01:59:25,191 autoreload 12828 22168 Watching for file changes with StatReloader
+INFO 2025-07-27 02:02:27,119 autoreload 21820 23188 Watching for file changes with StatReloader
+INFO 2025-07-27 02:03:48,412 autoreload 21128 15920 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:40,022 autoreload 19620 2856 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:40,405 autoreload 12828 22168 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:40,681 autoreload 21128 15920 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:40,830 autoreload 22492 6924 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:41,275 autoreload 18464 21036 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:41,277 autoreload 18476 19112 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:41,399 autoreload 21820 23188 C:\Users\USER\Downloads\Elvi's project\project\backend\ai_engine\models.py changed, reloading.
+INFO 2025-07-27 02:04:49,093 autoreload 19260 21656 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:49,227 autoreload 17684 23064 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:49,930 autoreload 4912 22968 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:50,574 autoreload 12156 19600 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:50,588 autoreload 22736 21952 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:51,000 autoreload 7824 22540 Watching for file changes with StatReloader
+INFO 2025-07-27 02:04:57,601 autoreload 22704 22692 Watching for file changes with StatReloader
+INFO 2025-07-27 02:06:28,459 autoreload 22480 21864 Watching for file changes with StatReloader
+WARNING 2025-07-27 02:07:11,656 log 19260 17880 Not Found: /
+WARNING 2025-07-27 02:07:14,010 log 19260 17880 Not Found: /favicon.ico
+WARNING 2025-07-27 02:08:38,610 log 19260 20924 Not Found: /
+WARNING 2025-07-27 02:09:32,062 log 19260 15184 Not Found: /
+INFO 2025-07-27 02:14:57,855 autoreload 22480 21864 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:57,867 autoreload 12156 19600 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:57,966 autoreload 19260 21656 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:57,936 autoreload 22704 22692 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:58,087 autoreload 22736 21952 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:58,205 autoreload 17684 23064 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:58,887 autoreload 7824 22540 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:14:59,087 autoreload 4912 22968 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 02:15:07,577 autoreload 24104 23324 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:07,726 autoreload 24168 21068 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:07,987 autoreload 23956 24312 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:08,319 autoreload 23680 23444 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:09,347 autoreload 24416 22508 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:09,368 autoreload 24268 21412 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:09,540 autoreload 17880 21644 Watching for file changes with StatReloader
+INFO 2025-07-27 02:15:17,504 autoreload 23780 22664 Watching for file changes with StatReloader
+INFO 2025-07-27 02:55:00,635 autoreload 20124 2496 Watching for file changes with StatReloader
+WARNING 2025-07-27 02:56:02,065 log 20124 20808 Not Found: /
+INFO 2025-07-27 03:01:03,836 autoreload 20124 2496 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\urls.py changed, reloading.
+INFO 2025-07-27 03:01:06,005 autoreload 25080 23912 Watching for file changes with StatReloader
+WARNING 2025-07-27 03:09:49,974 log 25080 18768 Bad Request: /api/auth/login/
+WARNING 2025-07-27 03:10:40,639 log 25080 9300 Bad Request: /api/auth/register/
+WARNING 2025-07-27 03:11:02,494 log 25080 24764 Bad Request: /api/auth/login/
+WARNING 2025-07-27 03:17:31,304 log 25080 22664 Not Found: /auth/register/
+WARNING 2025-07-27 03:17:43,072 log 25080 22664 Not Found: /auth/login/
+INFO 2025-07-27 03:20:43,029 autoreload 22388 24480 Watching for file changes with StatReloader
+ERROR 2025-07-27 03:21:12,702 log 25080 25540 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 27, in register
+    token, created = Token.objects.get_or_create(user=user)
+                     ^^^^^^^^^^^^^
+AttributeError: type object 'Token' has no attribute 'objects'
+INFO 2025-07-27 03:22:13,252 autoreload 25080 23912 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 03:22:13,293 autoreload 22388 24480 C:\Users\USER\Downloads\Elvi's project\project\backend\africanmealplanner\settings.py changed, reloading.
+INFO 2025-07-27 03:22:15,830 autoreload 24796 25544 Watching for file changes with StatReloader
+INFO 2025-07-27 03:22:15,916 autoreload 18508 8216 Watching for file changes with StatReloader
+WARNING 2025-07-27 03:33:03,309 log 24796 26760 Bad Request: /api/auth/register/
+INFO 2025-07-27 03:34:30,644 autoreload 24368 27304 Watching for file changes with StatReloader
+ERROR 2025-07-27 03:47:05,250 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:18,976 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:20,771 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:21,767 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:22,937 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:24,001 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 03:47:24,576 log 24796 24488 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 04:22:01,506 log 24796 27520 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 04:22:09,062 log 24796 27520 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 04:22:41,806 log 24796 27848 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 04:26:07,903 log 24796 21588 Internal Server Error: /api/auth/onboarding/complete/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 106, in complete_onboarding
+    user = serializer.save(request.user)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 248, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+WARNING 2025-07-27 04:32:33,876 log 24796 26908 Bad Request: /api/auth/onboarding/complete/
+INFO 2025-07-27 04:41:40,140 autoreload 24796 25544 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py changed, reloading.
+INFO 2025-07-27 04:41:40,733 autoreload 18508 8216 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py changed, reloading.
+INFO 2025-07-27 04:41:51,732 autoreload 24904 28272 Watching for file changes with StatReloader
+INFO 2025-07-27 04:41:51,775 autoreload 25848 25964 Watching for file changes with StatReloader
+INFO 2025-07-27 04:42:10,052 autoreload 24904 28272 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 04:42:10,512 autoreload 25848 25964 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 04:42:15,208 autoreload 25688 26272 Watching for file changes with StatReloader
+INFO 2025-07-27 04:42:15,216 autoreload 23596 26436 Watching for file changes with StatReloader
+INFO 2025-07-27 04:47:56,244 autoreload 28216 14892 Watching for file changes with StatReloader
+INFO 2025-07-27 04:49:09,629 autoreload 25688 26272 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 04:49:09,669 autoreload 28216 14892 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 04:49:09,861 autoreload 23596 26436 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 04:49:13,373 autoreload 9884 25912 Watching for file changes with StatReloader
+INFO 2025-07-27 04:49:13,455 autoreload 27136 27120 Watching for file changes with StatReloader
+INFO 2025-07-27 04:49:14,098 autoreload 9764 25772 Watching for file changes with StatReloader
+INFO 2025-07-27 04:55:47,061 autoreload 22240 25756 Watching for file changes with StatReloader
+WARNING 2025-07-27 04:58:18,937 log 27136 23384 Bad Request: /api/auth/onboarding/complete/
+INFO 2025-07-27 05:01:40,523 autoreload 22240 25756 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py changed, reloading.
+INFO 2025-07-27 05:01:41,586 autoreload 9884 25912 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py changed, reloading.
+INFO 2025-07-27 05:01:41,712 autoreload 27136 27120 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py changed, reloading.
+INFO 2025-07-27 05:01:45,107 autoreload 28612 22820 Watching for file changes with StatReloader
+INFO 2025-07-27 05:01:45,193 autoreload 24920 28548 Watching for file changes with StatReloader
+INFO 2025-07-27 05:01:45,394 autoreload 26660 23040 Watching for file changes with StatReloader
+INFO 2025-07-27 05:05:43,295 views 28612 8452 Received onboarding request from user: Creedj323@gmail.com
+WARNING 2025-07-27 05:05:43,299 views 28612 8452 Validation errors: {'gender': [ErrorDetail(string='"Male" is not a valid choice.', code='invalid_choice')]}
+WARNING 2025-07-27 05:05:43,301 log 28612 8452 Bad Request: /api/auth/onboarding/complete/
+INFO 2025-07-27 05:08:56,324 views 28612 28108 Received onboarding request from user: Creedj323@gmail.com
+WARNING 2025-07-27 05:08:56,343 views 28612 28108 Validation errors: {'gender': [ErrorDetail(string='"male" is not a valid choice.', code='invalid_choice')]}
+WARNING 2025-07-27 05:08:56,355 log 28612 28108 Bad Request: /api/auth/onboarding/complete/
+INFO 2025-07-27 05:13:15,555 views 28612 27280 Received onboarding request from user: Creedj323@gmail.com
+ERROR 2025-07-27 05:13:15,623 serializers 28612 27280 Error in OnboardingSerializer.save: User has no profile.
+Traceback (most recent call last):
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py", line 277, in save
+    profile = user.profile
+              ^^^^^^^^^^^^
+  File "C:\Users\USER\Downloads\Elvi's project\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 492, in __get__
+    raise self.RelatedObjectDoesNotExist(
+    ...<2 lines>...
+    )
+accounts.models.User.profile.RelatedObjectDoesNotExist: User has no profile.. Did you mean: 'ai_profile'?
+ERROR 2025-07-27 05:13:15,682 log 28612 27280 Internal Server Error: /api/auth/onboarding/complete/
+INFO 2025-07-27 05:27:20,003 autoreload 28612 22820 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 05:27:20,280 autoreload 26660 23040 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 05:27:20,808 autoreload 24920 28548 C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\serializers.py changed, reloading.
+INFO 2025-07-27 05:27:27,113 autoreload 9880 29496 Watching for file changes with StatReloader
+INFO 2025-07-27 05:27:27,579 autoreload 29316 28872 Watching for file changes with StatReloader
+INFO 2025-07-27 05:27:27,838 autoreload 28716 29340 Watching for file changes with StatReloader
+INFO 2025-07-27 05:32:24,392 views 9880 27960 Received onboarding request from user: Creedj323@gmail.com
+ERROR 2025-07-27 05:32:25,140 log 9880 27960 Internal Server Error: /api/auth/profile/stats/
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: recipes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\USER\Downloads\Elvi's project\project\backend\accounts\views.py", line 220, in user_stats
+    total_recipes = Recipe.objects.count()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: recipes

@@ -1,0 +1,1 @@
+# Meal Planning app for managing meal plans and schedules

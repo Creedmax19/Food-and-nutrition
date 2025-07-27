@@ -1,0 +1,1 @@
+# African Meal Planner Django Backend
